@@ -1,0 +1,52 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <title>Pays/Produits</title>
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous"> 
+    </head>
+    <body>
+        <div class="card" style="margin: 40px;">
+            <center>
+                <br><br>
+                <form action="{% url 'pageFormulaire'%}" method="post">
+                    {% csrf_token %}
+                    
+
+                    <h2><label for="pays">Sélectionnez un pays :</label></h2>
+
+                    <select style="width: 600px;" name="pays" class="form-select" aria-label="Default select example" id="pays" required>
+                        <option value="" disabled selected>-- Choisissez un pays --</option>
+                        {% for pay in pays %}
+                            <option value="{{ pay }}">{{ pay }}</option>
+                        {% endfor %}
+                    </select>
+
+                    <br><br>
+
+                    <h2><label for="produit">Sélectionnez un produit :</label></h2>
+
+                    <select style="width: 600px;" class="form-select" aria-label="Default select example" name="produit" id="produit" required>
+                        <option value="" disabled selected>-- Choisissez un produit --</option>
+                        {% for produit in produits %}
+                            <option value="{{ produit }}">{{ produit }}</option>
+                        {% endfor %}
+                    </select>
+
+                    <br><br>
+
+                    <button type="submit" class="btn btn-primary">soumettre</button>
+                </form>
+                <br>
+                
+                {% if message %}
+                    <div id="reponse"><h3>{{ message }}</h3></div>
+                {% endif %}
+            </center>
+            <br><br>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+        
+    </body>
+</html>

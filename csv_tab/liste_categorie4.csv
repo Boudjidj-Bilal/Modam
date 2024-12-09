@@ -1,0 +1,168 @@
+Pays,Autorisation d'importation nécessaire,Pas d'autorisation d'importation nécessaire,Pas d'information
+Afghanistan,o,o,x
+Afrique Du Sud,x,o,o
+Albanie,o,o,x
+Algérie,x,o,o
+Andorre,o,o,x
+Angola,x,o,o
+Anguilla,o,o,x
+Antigua-Et-Barbuda,o,o,x
+Arabie-Saoudite,o,o,x
+Argentine,o,o,x
+Arménie,o,o,x
+Australie,x,o,o
+Azerbaidjan,o,o,x
+Bahamas,o,o,x
+Bahrein,x,o,o
+Bangladesh,o,o,x
+Barbade,o,o,x
+Belarus,o,o,x
+Belize,o,o,x
+Benin,x,o,o
+Bhoutan,o,o,x
+Biélorussie,o,o,x
+Birmanie,o,o,x
+Bolivie,o,o,x
+Bosnie-Herzégovine,o,o,x
+Botswana,o,o,x
+Brésil,x,o,o
+Brunei-Darussalam,o,o,x
+Burkina-Faso,x,o,o
+Burundi,o,x,o
+Cambodge,o,o,x
+Cameroun,o,x,o
+Canada,x,o,o
+Cap-Vert,x,o,o
+Centre-Afrique,o,x,o
+Chili,o,o,x
+Chine,o,o,x
+Colombie,o,o,x
+Comores,x,o,o
+Congo,x,o,o
+Corée Du Nord,o,o,x
+Corée Du Sud,o,x,o
+Costa Rica,o,o,x
+Cote D'ivoire,x,o,o
+Cuba,o,o,x
+Djibouti,x,o,x
+Dominique,o,o,x
+Egypte,o,o,x
+El Salvador,o,o,x
+Emirats Arabe Unis,x,o,o
+Equateur,o,o,x
+Erythrée,o,o,x
+Eswatini,o,o,x
+Etats Unis,x,o,o
+Ethiopie,x,o,o
+Russie,o,o,x
+Gabon,x,o,x
+Gambie,o,o,x
+Géorgie,o,o,x
+Ghana,x,o,o
+Grenade,o,o,x
+Guatemala,o,o,x
+Guinée,x,o,o
+Guinée Equatoriale,o,o,x
+Guinée Bissau,o,o,x
+Guyana,o,o,x
+Haiti,o,o,x
+Honduras,o,o,x
+Iles Marshall,o,o,x
+Iles Salomon,o,o,x
+Inde,o,x,o
+Indonésie,o,o,x
+Iran,o,o,x
+Iraq,o,o,x
+Islande,o,o,x
+Israél,o,o,x
+Jamaique,o,o,x
+Japon,o,x,o
+Jordanie,o,o,x
+Kazakhstan,o,o,x
+Kenya,x,o,o
+Kirghizistan,o,o,x
+Kiribati,o,o,x
+Koweit,x,o,o
+Laos,o,o,x
+Lesotho,o,o,x
+Liban,x,x,o
+Liberia,o,o,x
+Libye,o,o,x
+Liechtenstein,o,o,x
+Madagascar,x,o,o
+Malaisie,o,o,x
+Malawi,o,o,x
+Maldives,o,o,x
+Mali,x,o,o
+Maroc,x,o,o
+(Ile)Maurice,x,o,o
+Mauritanie,x,o,o
+Mexique,o,o,x
+Micronésie,o,o,x
+Monaco,o,o,x
+Mongolie,o,o,x
+Monténégro,o,o,x
+Mozambique,o,o,x
+Myanmar,o,o,x
+Namibie,o,o,x
+Nauru,o,o,x
+Népal,o,o,x
+Nicaragua,o,o,x
+Niger,x,o,o
+Nigeria,o,o,x
+Norvége,o,o,x
+Nouvelle-Zélande,o,o,x
+Oman,o,o,x
+Ouganda,o,o,x
+Ouzbékistan,o,o,x
+Pakistan,o,o,x
+Palaos,o,o,x
+Panama,o,o,x
+Papouasie-Nouvelle-Guinée,o,o,x
+Paraguay,o,o,x
+Pérou,o,o,x
+Philippines,o,o,x
+Qatar,o,o,x
+République De La Moldavie,o,o,x
+République Du Congo,x,o,o
+République Dominicaine,o,o,x
+Rwanda,x,o,o
+Saint-Marin,o,o,x
+Saint-Siége,o,o,x
+Saint-Vincent-Et-Les-Grenadines,o,o,x
+Samoa,o,o,x
+Sao-Tomé-Et-Principe,o,o,o
+Sénégal,x,o,o
+Serbie,o,o,x
+Seychelles,o,o,x
+Sierra Leone,o,o,x
+Singapour,x,o,o
+Somalie,o,o,x
+Soudan,x,o,o
+Soudan du Sud,o,o,x
+Sri Lanka,o,o,x
+Suisse,x,x,o
+Suriname,o,o,x
+Syrie,x,o,o
+Tadjikistan,o,o,x
+Taiwan,o,o,x
+Tanzanie,x,o,o
+Tchad,x,o,o
+Thailande,o,o,x
+Timor Oriental,o,o,x
+Togo,x,o,o
+Tonga,o,o,x
+Trinité-Et-Tobago,o,o,x
+Tunisie,x,o,o
+Turkménistan,o,o,x
+Turquie,o,o,x
+Tuvalu,o,o,x
+Etats membres de l'Union européenne,o,x,o
+Ukraine,o,o,x
+Uruguay,o,o,x
+Vanuatu,o,o,x
+Venezuela,o,o,x
+Viet Nam,x,o,o
+Yémen,o,o,x
+Zambie,o,o,x
+Zimbabwe,o,o,x
